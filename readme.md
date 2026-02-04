@@ -100,8 +100,8 @@ If you find this list helpful, please consider starring this repo to help others
 #### News 📰
 
 - [Daily Paws](https://www.dailypaws.com/) - Solid info on the everyday stuff (health issues, behavior, questions, challenges) for pet parents.
-- [Latest News & Blogs - World Animal Protection](https://www.worldanimalprotection.org/latest/) - News and blogs from WAN, an animal protection and welfare organization.
-- [National Geographic](https://www.nationalgeographic.com/animals) - Some of nature’s most incredible species through recent discoveries and groundbreaking studies on animal habitats, behaviors, and unique adaptations.
+- [Latest News & Blogs - World Animal Protection](https://www.worldanimalprotection.org/latest/) - News and blogs from WAP, an animal protection and welfare organization.
+- [National Geographic](https://www.nationalgeographic.com/animals) - Some of nature's most incredible species through recent discoveries and groundbreaking studies on animal habitats, behaviors, and unique adaptations.
 - [The Dodo](https://www.thedodo.com/) - News for Animal People.
 - [World Animal News](https://worldanimalnews.com/) - Covers news on everything from wild and domestic animals to threatened and endangered species.
 
@@ -146,7 +146,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [Save The Snakes](https://savethesnakes.org/)
 - [The People's Dispensary for Sick Animals (PDSA)](https://www.pdsa.org.uk/)
 - [The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/)
-- [World Animal Protection](https://www.worldanimalprotection.org)
+- [World Animal Protection (WAP now, formerly WSPA)](https://www.worldanimalprotection.org)
   - [World Animal Protection India](https://www.worldanimalprotection.org.in/)
 - [World Horse Welfare](https://www.worldhorsewelfare.org)
 - [World Parrot Trust](https://parrots.org/)
