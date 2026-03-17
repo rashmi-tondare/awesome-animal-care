@@ -292,7 +292,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [Fishkeeper Databank](https://www.fishkeeper.co.uk/databank) - Searchable database of information about fishes, fish food, filters etc.
 - [Education Center - LiveAquaria](https://www.liveaquaria.com/general/general.cfm?general_pagesid=176) - Aquarium care related information for various fish species.
 - [Seriously Fish](https://seriouslyfish.com/) - Searchable database of fish species information, also includes a fish care blog.
-- [What is the best fish food for my fish? - Aquatic Veterinary Services](https://cafishvet.com/fish-care/best-fish-food-for-pet-fish/)
+- [What is the best fish food for my fish? - Aquatic Veterinary Services](https://cafishvet.com/fish-care/best-fish-food-for-pet-fish/) - Talks about pellets vs. flakes, the 6 Month Rule and how to choose food for your fish based on nutritional labels on food's packaging.
 
 #### Fish Behaviour & Training 💭
 
