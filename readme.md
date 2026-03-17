@@ -354,7 +354,7 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 - [5 Parrot Diet Nutrition Essentials That You CAN'T Neglect - Orange Pet Nutrition](https://www.orangepet.in/blogs/posts/5-parrot-diet-nutrition-essentials-that-you-cant-neglect) - Article explains how to design a balanced diet for your parrot.
 - [Parrot Diet & Nutrition - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Diet-and-Nutrition-BBB.pdf) - Provides useful tips about a parrot's diet. Part of TGF's Beyond Bird Basics series.
 
-## 👥 Contributing & Feedback
+## Contributing
 
 Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
 
