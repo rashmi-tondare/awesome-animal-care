@@ -16,7 +16,7 @@ Your contributions are always welcome! To contribute, make your changes to [read
 
 If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers! ✨
 
-## ☰ Contents
+## Contents
 
 - [Disclaimer: PLEASE READ THIS BEFORE PROCEEDING](#disclaimer-please-read-this-before-proceeding)
 - [Common Resources for all animals](#common-resources-for-all-animals)
@@ -57,10 +57,10 @@ If you find this list helpful, please consider starring this repo to help others
 ## Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
 
 - The **information, links and resources provided here are for educational and informational purposes only**, and **not intended to be a substitute for professional veterinary advice, diagnosis, or treatment**.
-- **Always seek the advice of your veterinarian or other qualified animal health provider** with any questions you may have regarding a medical condition or the health of your animal.
-- **Never disregard professional veterinary advice or delay in seeking it** because of something you have read in this material.
+- Always **seek the advice of your veterinarian or other qualified animal health provider** with any questions you may have regarding a medical condition or the health of your animal.
+- Never disregard **professional veterinary advice** or delay in seeking it because of something you have read in this material.
 - If you think your animal has a medical emergency, **call or visit your veterinarian or local animal hospital immediately**.
-- **Do not self-medicate your animal**, always consult a veterinarian for medical advice and treatment.
+- Do not self-medicate your animal, **always consult a veterinarian** for medical advice and treatment.
 
 ## Common Resources for all animals
 
