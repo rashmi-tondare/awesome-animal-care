@@ -1,8 +1,6 @@
-![Happy dog picture](images/happy_dog.jpg)
+![Banner image](images/banner.png)
 
-**Image courtesy:** [Pixabay](https://pixabay.com/photos/corgi-dog-pet-canine-rain-animal-4415649/)
-
-# 🐾 Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 🐾
 
 List of curated information resources to care for dogs, cats, fishes, horses, parrots and others.
 
@@ -12,17 +10,15 @@ I've created this from my animal care resources compilation drawn from curiosity
 
 Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
 
-[![NotByAI](https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg)](https://notbyai.fyi/)
-
 ## 👥 Contributing & Feedback
 
 Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
 
 If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers! ✨
 
-## ☰ Index
+## ☰ Contents
 
-- [⚠️ Disclaimer: PLEASE READ THIS BEFORE PROCEEDING.](#️-disclaimer-please-read-this-before-proceeding)
+- [⚠️ Disclaimer: PLEASE READ THIS BEFORE PROCEEDING](#️-disclaimer-please-read-this-before-proceeding)
 - [📖 Common Resources for all animals](#-common-resources-for-all-animals)
   - [Books 📚](#books-)
   - [Care & Treatment 🩺](#care--treatment-)
@@ -57,11 +53,8 @@ If you find this list helpful, please consider starring this repo to help others
   - [Care & Treatment 🩺](#parrot-care--treatment-)
   - [Behaviour & Training 💭](#parrot-behaviour--training-)
   - [Diet & Nutrition 🥗](#parrot-diet--nutrition-)
-- [👥 Contributing & Feedback](#-contributing--feedback)
 
-## 🧺 Contents
-
-### ⚠️ Disclaimer: PLEASE READ THIS BEFORE PROCEEDING.
+## ⚠️ Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
 
 - The **information, links and resources provided here are for educational and informational purposes only**, and **not intended to be a substitute for professional veterinary advice, diagnosis, or treatment**.
 - **Always seek the advice of your veterinarian or other qualified animal health provider** with any questions you may have regarding a medical condition or the health of your animal.
@@ -69,9 +62,9 @@ If you find this list helpful, please consider starring this repo to help others
 - If you think your animal has a medical emergency, **call or visit your veterinarian or local animal hospital immediately**.
 - **Do not self-medicate your animal**, always consult a veterinarian for medical advice and treatment.
 
-### 📖 Common Resources for all animals
+## 📖 Common Resources for all animals
 
-#### Books 📚
+### Books 📚
 
 - [Animal Behavior for Shelter Veterinarians and Staff - Emily Weiss, Heather Mohan-Gibbons, Stephen Zawistowski](https://www.goodreads.com/book/show/24044773-animal-behavior-for-shelter-veterinarians-and-staff)
 - [🆓 Animal Care and Use Handbook - Virginia State University](https://www.vsu.edu/files/docs/research/vsu-animal-care-handbook.pdf)
@@ -83,7 +76,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [🆓 Wildlife Rescue Handbook: The First 24 Hours - Wildlife Heroes](https://wildlifeheroes.org.au/wp-content/uploads/2021/09/WildlifeHeroesWildlifeRescueHandbookFinal.pdf)
 - [Zoobiquity: The Astonishing Connection Between Human and Animal Health - Barbara Natterson-Horowitz, Kathryn Bowers](https://www.goodreads.com/book/show/15797326-zoobiquity)
 
-#### Care & Treatment 🩺
+### Care & Treatment 🩺
 
 - [General Pet Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/general-pet-care) - Health and behaviour information to help pet parents provide the best possible care for their furry friends.
 - [Management of Specific Wounds in Small Animals - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/emergency-medicine-and-critical-care/wound-management-in-small-animals/management-of-specific-wounds-in-small-animals) - Useful information to treat wounds in small animals like cats, dogs, rabbits, mice, ferrets, etc.
@@ -94,13 +87,15 @@ If you find this list helpful, please consider starring this repo to help others
   - [(Choosing & knowing) Your Veterinarian](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
 - [Standard Veterinary Treatment Guidelines for Livestock and Poultry - DAHD India](https://dahd.gov.in/sites/default/files/2024-10/StandardVeterinaryTreatment.pdf) - Treatment guidebook for diseases in cattle, sheep, goats, camels and other animals.
 - [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet wwnership, shelter adoption programme and animal assisted interventions.
+- [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. **_Intended only for non-emergency animal health queries._**
+- [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. **_Intended only for non-emergency animal health queries._**
 - [The Problem of Self-Medication in Pets - SAVA Healthcare](https://savavet.com/the-problem-of-self-medication-in-pets/) - Article explains why self-medication your pet is a problem and what you should do instead.
 
-#### Diet & Nutrition 🥗
+### Diet & Nutrition 🥗
 
 - [Creating a Nutrition Plan - Pet Nutrition Alliance](https://petnutritionalliance.org/resources/nutritional-assessment-procedure/creating-a-nutritional-plan/) - Includes establishing nutrient goals, providing a complete and balanced diet for patients, selecting an appropriate food, and determining how much to feed.
 
-#### News 📰
+### News 📰
 
 - [Daily Paws](https://www.dailypaws.com/) - Solid info on the everyday stuff (health issues, behavior, questions, challenges) for pet parents.
 - [Latest News & Blogs - World Animal Protection](https://www.worldanimalprotection.org/latest/) - News and blogs from WAP, an animal protection and welfare organization.
@@ -108,17 +103,17 @@ If you find this list helpful, please consider starring this repo to help others
 - [The Dodo](https://www.thedodo.com/) - News for Animal People.
 - [World Animal News](https://worldanimalnews.com/) - Covers news on everything from wild and domestic animals to threatened and endangered species.
 
-#### RSS Feeds 🛜
+### RSS Feeds 🛜
 
 - [Animal Health Smartbrief - American Veterinary Medical Association (AVMA)](http://www.smartbrief.com/servlet/rss?b=AVMA) - RSS feed link for AVMA's daily newsletter providing news of importance to animal health professionals. This includes: veterinary medicine updates, animal welfare and pet product news, best business practices, and regulatory updates.
 - [The Dog Pod - Rebecca Tompkins](https://media.rss.com/thedogpod/feed.xml) - RSS feed link for The Dog Pod podcast which publishes curated, canine-related content.
 
-#### Veterinary Reference 📑
+### Veterinary Reference 📑
 
 - [MSD (Merck) Veterinary Manual](https://www.msdvetmanual.com/) - One of the most widely used non-commercial medical resources for professionals and pet owners.
 - [Veterinary Partner by VIN](https://veterinarypartner.vin.com/) - Pet care information by veterinarians for pet owners, provided by Veterinary Information Network (VIN).
 
-#### Welfare Organizations 🌐
+### Welfare Organizations 🌐
 
 - [American Bird Conservancy (ABC)](https://abcbirds.org/)
 - [American Heartworm Society (AHS)](https://www.heartwormsociety.org/)
@@ -156,7 +151,7 @@ If you find this list helpful, please consider starring this repo to help others
 
 ---
 
-#### Food Hazards & Poison Control ‼️
+### Food Hazards & Poison Control ‼️
 
 - [Food Hazards - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/special-pet-topics/poisoning/food-hazards) - Most common foods that can cause illness in animals.
 - [Pet Poison Helpline](https://www.petpoisonhelpline.com/poisons/) - Searchable list of common substances, poisonous to animals.
@@ -172,13 +167,13 @@ If you find this list helpful, please consider starring this repo to help others
 
 ---
 
-### 🐱 Cats
+## 🐱 Cats
 
-#### Cat Books 📚
+### Cat Books 📚
 
 - [🆓 Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf)
 - [🆓 Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf)
-- 🆓 Essential Guides by [Cats Protection](https://www.cats.org.uk):
+- 🆓 Essential Guides by Cats Protection:
   - [🆓 Essential Guide 1, Caring for your cat - Cats Protection](https://www.cats.org.uk/media/rvpf24h5/caring-for-your-cat-2025.pdf)
   - [🆓 Essential Guide 2, Bringing your cat home - Cats Protection](https://www.cats.org.uk/media/cypfc3nz/bringing-your-cat-home-2025.pdf)
   - [🆓 Essential Guide 3, Moving house - Cats Protection](https://www.cats.org.uk/media/4krfpztk/moving-house-2025.pdf)
@@ -199,23 +194,21 @@ If you find this list helpful, please consider starring this repo to help others
 - [Think Like a Cat: How to Raise a Well-Adjusted Cat, Not a Sour Puss - Miriam M. Gonzalez Hernandez](https://www.goodreads.com/book/show/13484.Think_Like_a_Cat)
 - [Total Cat Mojo: The Ultimate Guide to Life with Your Cat - Jackson Galaxy](https://www.goodreads.com/book/show/34066800-total-cat-mojo)
 
-#### Cat Care & Treatment 🩺
+### Cat Care & Treatment 🩺
 
 - [Cats.com](https://cats.com/) - In-depth cat product reviews to veterinarian-written guides on cat health issues, medications, and more.
 - [Cat Advice - International Cat Care](https://icatcare.org/cat-advice) - Searchable collection of in-depth cat advice articles on a huge range of feline health and wellbeing topics.
-- [Cat and Dog Symptom Checker - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. **_Intended only for non-emergency animal health queries._**
 - [Cat Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care) - Tips, solutions and answers to some of your most frequently asked feline questions.
   - [Common Cat Diseases](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
 - [Cat Health Center - FETCH by WebMD](https://www.webmd.com/pets/cats/default.htm) - Collection of information resources related to cat health.
 - [Catster](https://www.catster.com/) - Information about cat health, behaviour, and products. A popular cat blog called "Conscious Cat" is [now part of Catster](https://www.catster.com/lifestyle/conscious-cat-is-now-a-part-of-catster/).
-- [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. **_Intended only for non-emergency animal health queries._**
 
-#### Cat Behaviour & Training 💭
+### Cat Behaviour & Training 💭
 
 - [How to Train a Cat: The Ultimate Cat Training Guide - CatSchool](https://www.catschool.co/cat-training-articles/how-to-train-a-cat-the-ultimate-cat-training-guide) - Detailed article covering topics like obedience skills, problem behaviours, tricks and general cat training tips and FAQs.
 - [Patience for Cats blog - Patience Fisher](https://patienceforcats.com/blog/) - Cat behaviour and training blog by Patience Fisher, a certified cat behaviour consultant.
 
-#### Cat Diet & Nutrition 🥗
+### Cat Diet & Nutrition 🥗
 
 - [Feeding Kittens 101 - Hannah Hart, DVM on PetMD](https://www.petmd.com/cat/nutrition/feeding-kittens-101-what-feed-how-much-and-how-often) - Article covers when, what, how much and how often to feed kittens and transitioning them to adult cat food.
 - [Feeding Your Cat - Cornell Feline Health Center](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feeding-your-cat) - Things to consider when selecting an appropriate diet for your cat.
@@ -224,9 +217,9 @@ If you find this list helpful, please consider starring this repo to help others
 - [Nutrition for Your Cat - Jaqueline Brister, DVM, Veterinary Partner by VIN](https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102902&id=9063758) - Article discussing cat nutrition constituents like proteins & carbohydrates, water intake, raw diets and medical management through food.
 - [Proper Nutrition for Cats - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/cat-owners/selecting-and-providing-a-home-for-a-cat/proper-nutrition-for-cats) - Discusses what, when, where and how much to feed your kitten or cat, feline nutrition standards and the need for a water bowl.
 
-### 🐶 Dogs
+## 🐶 Dogs
 
-#### Dog Books 📚
+### Dog Books 📚
 
 - [🆓 Adopter's Guide to Rescue Dogs, What to do and expect in the first few months - Ruth Hegarty, M.S.E., Dog Trainer in association with Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/wp-content/uploads/ARK-Rescue-Dog-Adopter-Guide.pdf)
 - [🆓 After You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
@@ -241,11 +234,10 @@ If you find this list helpful, please consider starring this repo to help others
 - [The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier, and Longer - Rodney Habib, Karen Shaw Becker](https://www.goodreads.com/book/show/56304413-the-forever-dog)
 - [Wag: The Science of Making Your Dog Happy - Zazie Todd](https://www.goodreads.com/book/show/48840518-wag)
 
-#### Dog Care & Treatment 🩺
+### Dog Care & Treatment 🩺
 
 - [Calculate Your Dog's Age: How Old Is Your Dog? - Alyson Powell Key, Annie Stuart on WebMD FETCH](https://www.webmd.com/pets/dogs/how-to-calculate-your-dogs-age) - Provides a dog age chart to calculate your dog's age the right way.
 - [Canine Heartworm Guidelines - American Heartworm Society](https://www.heartwormsociety.org/resources/54-heartworm-guidelines/375-canine-heartworm-guidelines) - Includes guidelines for prevention, diagnosis and management of heartworm infections.
-- [Cat and Dog Symptom Checker - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. **_Intended only for non-emergency animal health queries._**
 - [Checklist for Puppy Proofing Your Home - Cathy Madson on Preventive Vet](https://www.preventivevet.com/dogs/checklist-for-puppy-proofing-your-home) - Provides a simple checklist of things to do when getting your new puppy or dog home.
 - [Dog Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/dog-care) - Wide range of dog health and behaviour tips that will help you provide the best possible care for your canine companion.
   - [Common Dog Diseases](https://www.aspca.org/pet-care/dog-care/common-dog-diseases) - Information about diseases and other medical inflictions that frequently impact dogs.
@@ -254,10 +246,9 @@ If you find this list helpful, please consider starring this repo to help others
 - [Heartworm Disease in Dogs: Testing - VCA Animal Hospitals](https://vcahospitals.com/know-your-pet/testing-for-heartworm-disease-in-dogs) - Information about the heartworm disease in dogs.
 - [Parvo in Dogs and Puppies - Ellen Malmanger, DVM on PetMD](https://www.petmd.com/dog/conditions/infectious-parasitic/parvo-in-dogs) - Exhaustive guide on Canine parvovirus (CPV) causes, symptoms, treatment and recovery.
 - [Routine Health Care of Dogs, Pet Owner Version - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/routine-health-care-of-dogs) - General dog care information for pet owners. If you have a puppy, see [Puppy Care](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care).
-- [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. **_Intended only for non-emergency animal health queries._**
 - [The Dog Symptom Checker - PetCareRX](https://www.petcarerx.com/article/the-dog-symptom-checker/1620) - List of most common dog symptoms and which illnesses they may be linked to. **_Intended only for non-emergency animal health queries._**
 
-#### Dog Behaviour & Training 💭
+### Dog Behaviour & Training 💭
 
 - [Dunbar Academy's Dog Star Daily Blog - Dr. Ian Dunbar](https://www.dogstardaily.com/) - Blogs and articles about dog behavior and things to know about training your puppy or dog.
 - [Puppyhood Made Easy blog - The Puppy Academy](https://www.thepuppyacademy.com/blog) - Blog posts about puppy training with topics ranging from potty training, safety to good manners.
@@ -265,7 +256,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [Peach on a Leash dog training blog](https://peachonaleash.com/blog/) - Blog covering dog training topics like teaching commands (like "drop it"), puppy biting, training with dog treats, identifying if your dog is a candidate for service dog work.
 - [Susan Garrett's Dog Training Blog](https://susangarrettdogagility.com/) - Dog training blog posts on topics ranging from dog brain games, stress management to positive dog training, agility transformation and recall training.
 
-#### Dog Diet & Nutrition 🥗
+### Dog Diet & Nutrition 🥗
 
 - [Dog Nutrition: A Guide to Dog Nutrients - Tiffany Tupler, DVM, CBCC-KA on PetMD](https://www.petmd.com/dog/nutrition/evr_dg_whats_in_a_balanced_dog_food) - Article with things to know about dog nutrition, including what to look for in a dog food.
 - [Feeding your growing puppy - Royal Kennel Club](https://www.royalkennelclub.com/your-dog/getting-a-dog/caring-for-a-new-pup/feeding-your-puppy-or-dog/) - Guide with a host of tips and hints to help decide the right diet for your dog.
@@ -276,16 +267,16 @@ If you find this list helpful, please consider starring this repo to help others
 - [What can I feed my dog when I’ve run out of dog food? - Animal Friends UK](https://www.animalfriends.co.uk/dog/dog-advice/food-and-diet/what-can-i-feed-my-dog-when-ive-run-out-of-dog-food/) - Article provides some safe alternatives to dog food that you might find in your fridge or cupboards, to fall back on in case dog food at home is over.
 - [Your dog's diet - The People's Dispensary for Sick Animals (PDSA)](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/puppies-dogs/your-dogs-diet) - Article covers what and how much to feed your dog along with changing dog food and selecting healthy treats for your dog.
 
-### 🐟 Fishes
+## 🐟 Fishes
 
-#### Fish Books 📚
+### Fish Books 📚
 
 - [Encyclopedia Of Aquarium & Pond Fish](https://www.goodreads.com/book/show/7040849-encyclopedia-of-aquarium-pond-fish)
 - [🆓 Freshwater Aquarium Handbook - Elmer's Aquarium](https://www.elmersaquarium.com/pdf-files/FW%20Handbook.pdf)
 - [Sunken Gardens: A Step-by-Step Guide to Planting Freshwater Aquariums - Karen Randall](https://www.goodreads.com/book/show/26026127-sunken-gardens)
 - [🆓 Tropical Fish, A Beginner's Guide - William Berg, AC Tropical Fish](https://www.aquaticcommunity.com/Tropical_Fish-A_Beginners_Guide.pdf)
 
-#### Fish Care & Treatment 🩺
+### Fish Care & Treatment 🩺
 
 - [AqAdvisor](https://aqadvisor.com/) - Intelligent Freshwater Aquarium Stocking Calculator to help setup correct stocks and filters for your aquariums and tropical fish.
 - [Aquarium Care and Maintenance: Nutrition and Feeding - FDACS](https://www.fdacs.gov/Consumer-Resources/Recreation-and-Leisure/Aquarium-Fish/Aquarium-Care-and-Maintenance-Nutrition-and-Feeding) - Comprehensive information guide about fish care, maintenance, aquarium components and water quality.
@@ -297,7 +288,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [Seriously Fish](https://seriouslyfish.com/) - Searchable database of fish species information, also includes a fish care blog.
 - [What is the best fish food for my fish? - Aquatic Veterinary Services](https://cafishvet.com/fish-care/best-fish-food-for-pet-fish/) - Talks about pellets vs. flakes, the 6 Month Rule and how to choose food for your fish based on nutritional labels on food's packaging.
 
-#### Fish Behaviour & Training 💭
+### Fish Behaviour & Training 💭
 
 - [Enrichment and Training for Aquarium Fish - IAABC Foundation Journal](https://journal.iaabcfoundation.org/enrichment-and-training-for-aquarium-fish/)
 - [Fish Feeding Guides - Fishkeeper](https://www.fishkeeper.co.uk/fish-feeding-guides) - Guides with details of what to feed and the amounts to feed/feeding frequency.
@@ -306,40 +297,40 @@ If you find this list helpful, please consider starring this repo to help others
 - [Target Training a Betta Fish - Finley B. Fish blog](https://finleybfish.wordpress.com/2016/01/09/target-training-a-betta-fish/) - A concise blog post about target training a Betta fish.
 - [Training Fish and Aquatic Invertebrates for Husbandry and Medical Behaviors - Allison L. Corwin](<https://www.vetexotic.theclinics.com/article/S1094-9194(12)00057-6/pdf>) - Comprehensive guide on fish caretaking and training, available as a free PDF.
 
-#### Fish Diet & Nutrition 🥗
+### Fish Diet & Nutrition 🥗
 
 - [Understanding Aquarium Fish Nutrition - LiveAquaria](https://www.liveaquaria.com/article/198/?aid=198) - Information about dietary needs, concerns, balanced diet and [different foods for complete nutrition](https://www.liveaquaria.com/PIC/article.cfm?aid=161).
 
-### 🐴 Horses
+## 🐴 Horses
 
-#### Horse Books 📚
+### Horse Books 📚
 
 - [🆓 Complete Guide to Horse Care - The Humane Society of the United States](https://www.humaneworld.org/sites/default/files/docs/HSUS_complete-guide-to-horse-care.pdf)
 - [How to Think Like A Horse: The Essential Handbook for Understanding Why Horses Do What They Do - Cherry Hill](https://www.goodreads.com/book/show/13456.How_to_Think_Like_A_Horse)
 
-#### Horse Care & Treatment 🩺
+### Horse Care & Treatment 🩺
 
 - [Basic Horse Care Guide for Beginners [Daily Checklist]](https://madbarn.com/basic-horse-care-guide/) - Covers most aspects of horse care from diet and veterinary care, to shelter access daily oversight. Also has an option to download the content as a free PDF.
 - [Horse care: health tips from foals to senior years - Boehringer Ingelheim](https://www.boehringer-ingelheim.com/animal-health/animals-we-support/horses) - Comprehensive collection of articles, stories and insights on all aspects of horse health.
 - [Horse Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/horse-care) - Quick list of horse care tips including nutritional needs, vaccination, deworming, etc.
 - [Horse health, care and management - British Horse Society](https://www.bhs.org.uk/horse-care-and-welfare/health-care-management/) - Collection of articles and blog posts related to horse-health on aspects like health & fitness, routine health care, stabling & pasture information and care of elderly horses.
 
-#### Horse Behaviour & Training 💭
+### Horse Behaviour & Training 💭
 
 - [Bright Horse (Horse Behaviour) blog - Barbara J. Hardman](https://www.brighthorse.ie/blog/) - Insights, practical tips, and real-life success stories about horse behaviour and training, ranging from managing anxiety to improving obedience.
 - [Good Horsemanship blog - Ross Jacobs](https://www.goodhorsemanship.com.au/blog) - Searchable (i.e. has a search bar) blog with posts on horse behaviour and training, with a peculiar perspective - "Assume Everything You Are Told Is Wrong Until You Are Satisfied It Isn't".
 - [Horse Behaviour blog - Kayna Prescott, Brighter Equines](https://www.brighterequines.com/journal) - Collection of blog posts on horse behaviour with tips on topics like enrichment, fear resolution and LIMA principles.
 - [Understanding Horse Body Language, A Beginner's Guide - Horseware Ireland](https://www.horseware.com/en-eu/blog) - Collections of horse health and behaviour blog posts ranging from sunburn prevention, horse body language to injury prevention and saving your horse from boredom.
 
-#### Horse Diet & Nutrition 🥗
+### Horse Diet & Nutrition 🥗
 
 - [Horse Nutrition Essentials - World Horse Welfare](https://www.worldhorsewelfare.org/advice/horse-nutrition-essentials) - WHF's essential top 10 nutrition considerations to keep your horse happy and healthy.
 - [No Grass? How to Supplement Your Horse’s Diet Safely - NAF Equine UK](https://nafequine.com/blogs/advice/no-grass) - Comprehensive blog post on horse nutrition beyond grazing.
 - [Wholesome Equine Nutrition blog](https://wholesomeequinenutrition.com/articles-2/) - Exhaustive collection of detailed blog posts on horse care and nutrition with topics like nutrition red flags, antioxidants, common types of horse grasses and preventing ulcers.
 
-### 🦜 Parrots
+## 🦜 Parrots
 
-#### Parrot Books 📚
+### Parrot Books 📚
 
 - [Good Parrotkeeping: A Comprehensive Guide to All Things Parrot - Robin Deutsch](https://www.goodreads.com/book/show/6892333-good-parrotkeeping)
 - [🆓 How to have a HAPPY HEALTHY PARROT - World Parrot Trust](https://parrots.org/wp-content/uploads/2023/01/HHP_UKLEAFLET.pdf)
@@ -350,7 +341,7 @@ If you find this list helpful, please consider starring this repo to help others
 - [🆓 The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf)
 - [🆓 The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf)
 
-#### Parrot Care & Treatment 🩺
+### Parrot Care & Treatment 🩺
 
 - [Beyond Bird Basics (BBB) - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/bbb-class/) - Series of educational presentations and quizzes, free to the public. Covers health and anatomy, enrichment, food and nutrition, and behaviour and training.
   - [Bird Health & Anatomy Part 1](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Health-and-Anatomy-Pt-1.pdf) - Covers topics like bird poop, bathing your bird, laying eggs, bird dust and dangar, feather plucking and sleep time.
@@ -358,13 +349,13 @@ If you find this list helpful, please consider starring this repo to help others
   - [Parrot Enrichment](https://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Enrichment-BBB.pdf) - Covers various types of bird enrichment activities.
 - [Parrot Care - World Parrot Trust](https://parrots.org/learn/care-guides/) - Parrot care resources, including easy enrichment ideas, important dietary tips and videos.
 
-#### Parrot Behaviour & Training 💭
+### Parrot Behaviour & Training 💭
 
 - [Teaching and Training Parrots - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2025/11/Teaching-and-Training-BBB-final-3.pdf) - Part of BBB series from The Gabriel Foundation, it covers various training techniques ranging from luring, shaping, prompts, cues and target training to stethoscope training.
 - [The Essentials of Parrot Behavior - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2025/11/Essentials-in-Behavior-BBB-final-3.pdf) - Part of BB series from The Gabriel Foundation, it covers parrot behaviour assessment methods with topics like defining trust, understanding body language, positive reinforcement, etc.
 - [Trained Parrot blog](https://trainedparrot.com/) - Blog about how to train tricks to all parrots and parakeets, includes instructional videos.
 
-#### Parrot Diet & Nutrition 🥗
+### Parrot Diet & Nutrition 🥗
 
 - [5 Parrot Diet Nutrition Essentials That You CAN'T Neglect - Orange Pet Nutrition](https://www.orangepet.in/blogs/posts/5-parrot-diet-nutrition-essentials-that-you-cant-neglect) - Article explains how to design a balanced diet for your parrot.
 - [Parrot Diet & Nutrition - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Diet-and-Nutrition-BBB.pdf) - Provides useful tips about a parrot's diet. Part of TGF's Beyond Bird Basics series.
