@@ -2,9 +2,9 @@
 
 # Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome) 🐾
 
-List of curated information resources to care for dogs, cats, fishes, horses, parrots and others.
+> Curated information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-The goal of this project is simply to gather human-generated, verified animal care articles written by experts and genuinely passionate people.
+The goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people.
 
 I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. I hope this list proves useful to all animal lovers!
 
