@@ -310,7 +310,7 @@ If you find this list helpful, please consider starring this repo to help others
 
 ### Horse Care & Treatment 🩺
 
-- [Basic Horse Care Guide for Beginners [Daily Checklist]](https://madbarn.com/basic-horse-care-guide/) - Covers most aspects of horse care from diet and veterinary care, to shelter access daily oversight. Also has an option to download the content as a free PDF.
+- [Basic Horse Care Guide for Beginners - Daily Checklist](https://madbarn.com/basic-horse-care-guide/) - Covers most aspects of horse care from diet and veterinary care, to shelter access daily oversight. Also has an option to download the content as a free PDF.
 - [Horse care: health tips from foals to senior years - Boehringer Ingelheim](https://www.boehringer-ingelheim.com/animal-health/animals-we-support/horses) - Comprehensive collection of articles, stories and insights on all aspects of horse health.
 - [Horse Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/horse-care) - Quick list of horse care tips including nutritional needs, vaccination, deworming, etc.
 - [Horse health, care and management - British Horse Society](https://www.bhs.org.uk/horse-care-and-welfare/health-care-management/) - Collection of articles and blog posts related to horse-health on aspects like health & fitness, routine health care, stabling & pasture information and care of elderly horses.
