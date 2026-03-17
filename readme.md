@@ -10,12 +10,6 @@ I've created this from my animal care resources compilation drawn from curiosity
 
 Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
 
-## 👥 Contributing & Feedback
-
-Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
-
-If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers! ✨
-
 ## Contents
 
 - [Disclaimer: PLEASE READ THIS BEFORE PROCEEDING](#disclaimer-please-read-this-before-proceeding)
@@ -359,3 +353,9 @@ If you find this list helpful, please consider starring this repo to help others
 
 - [5 Parrot Diet Nutrition Essentials That You CAN'T Neglect - Orange Pet Nutrition](https://www.orangepet.in/blogs/posts/5-parrot-diet-nutrition-essentials-that-you-cant-neglect) - Article explains how to design a balanced diet for your parrot.
 - [Parrot Diet & Nutrition - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Diet-and-Nutrition-BBB.pdf) - Provides useful tips about a parrot's diet. Part of TGF's Beyond Bird Basics series.
+
+## 👥 Contributing & Feedback
+
+Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
+
+If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers! ✨
