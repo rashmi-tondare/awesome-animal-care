@@ -76,8 +76,8 @@ Goal of this project is simply to gather verified animal care content written by
   - [(Choosing & knowing) Your Veterinarian](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
 - [Standard Veterinary Treatment Guidelines for Livestock and Poultry - DAHD India](https://dahd.gov.in/sites/default/files/2024-10/StandardVeterinaryTreatment.pdf) - Treatment guidebook for diseases in cattle, sheep, goats, camels and other animals.
 - [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet wwnership, shelter adoption programme and animal assisted interventions.
-- [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. **_Intended only for non-emergency animal health queries._**
-- [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. **_Intended only for non-emergency animal health queries._**
+- [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. _Intended only for non-emergency animal health queries._
+- [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. _Intended only for non-emergency animal health queries._
 - [The Problem of Self-Medication in Pets - SAVA Healthcare](https://savavet.com/the-problem-of-self-medication-in-pets/) - Article explains why self-medication your pet is a problem and what you should do instead.
 
 ### Diet & Nutrition
@@ -235,7 +235,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [Heartworm Disease in Dogs: Testing - VCA Animal Hospitals](https://vcahospitals.com/know-your-pet/testing-for-heartworm-disease-in-dogs) - Information about the heartworm disease in dogs.
 - [Parvo in Dogs and Puppies - Ellen Malmanger, DVM on PetMD](https://www.petmd.com/dog/conditions/infectious-parasitic/parvo-in-dogs) - Exhaustive guide on Canine parvovirus (CPV) causes, symptoms, treatment and recovery.
 - [Routine Health Care of Dogs, Pet Owner Version - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/routine-health-care-of-dogs) - General dog care information for pet owners. If you have a puppy, see [Puppy Care](https://www.msdvetmanual.com/dog-owners/routine-care-of-dogs/puppy-care).
-- [The Dog Symptom Checker - PetCareRX](https://www.petcarerx.com/article/the-dog-symptom-checker/1620) - List of most common dog symptoms and which illnesses they may be linked to. **_Intended only for non-emergency animal health queries._**
+- [The Dog Symptom Checker - PetCareRX](https://www.petcarerx.com/article/the-dog-symptom-checker/1620) - List of most common dog symptoms and which illnesses they may be linked to. _Intended only for non-emergency animal health queries._
 
 ### Dog Behaviour & Training
 
