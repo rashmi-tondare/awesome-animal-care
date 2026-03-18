@@ -4,13 +4,9 @@
 
 > Curated information resources to care for dogs, cats, fishes, horses, parrots and others.
 
-The goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people.
+Goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people. I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. Hope this list proves useful to all animal lovers!
 
-I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. I hope this list proves useful to all animal lovers!
-
-Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
-
-### Disclaimer: PLEASE READ THIS BEFORE PROCEEDING
+**Disclaimer: PLEASE READ THIS BEFORE PROCEEDING**
 
 - The information, links and resources provided here are for educational and informational purposes only, and not intended to be a substitute for professional veterinary advice, diagnosis, or treatment.
 - Always seek the advice of your veterinarian or other qualified animal health provider with any questions you may have regarding a medical condition or the health of your animal.
@@ -358,3 +354,7 @@ Since we cannot afford to rely on unverified AI-generated content when it comes 
 Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
 
 If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers!
+
+## Footnotes
+
+Since we cannot afford to rely on unverified AI-generated content when it comes to animal health, let's try and abide by the [Not By AI 90% Rule](https://notbyai.fyi/not-by-ai-90-rule) for this project.
