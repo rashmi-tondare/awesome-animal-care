@@ -1,4 +1,4 @@
-![Banner image](images/banner.png)
+[![Banner image](images/banner.png)](https://omkar-foss.github.io/awesome-animal-care/)
 
 # Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
