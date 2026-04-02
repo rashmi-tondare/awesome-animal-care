@@ -1,10 +1,10 @@
-[![Banner image](images/banner.png)](https://omkar-foss.github.io/awesome-animal-care/)
+[<img width="767" src="images/banner.png"/>](https://omkar-foss.github.io/awesome-animal-care/)
 
-# Awesome Animal Care [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/refs/heads/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Animal Care [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Curated information resources to care for dogs, cats, fishes, horses, parrots and others.
+> Caring for dogs, cats, fish, horses, parrots, and other animals.
 
-Goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people. I've created this from my animal care resources compilation drawn from curiosity and several years of interactions with pets and street animals. Hope this list proves useful to all animal lovers!
+Goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people.
 
 **Disclaimer: PLEASE READ THIS BEFORE PROCEEDING**
 
@@ -67,15 +67,15 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Care & Treatment
 
+- [Choosing & Knowing Your Veterinarian - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
+- [Emergency Care - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners/emergency-care) - Immediate first aid and emergency care, strictly as a bridge until your animal can be seen by a veterinarian.
 - [General Pet Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/general-pet-care) - Health and behaviour information to help pet parents provide the best possible care for their furry friends.
 - [Management of Specific Wounds in Small Animals - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/emergency-medicine-and-critical-care/wound-management-in-small-animals/management-of-specific-wounds-in-small-animals) - Useful information to treat wounds in small animals like cats, dogs, rabbits, mice, ferrets, etc.
 - [Pet Health Checker - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://www.vancouverspcavet.ca/pet-health-resources/pet-health-checker/) - Symtom checker for dogs and cats.
 - [Resource Center - American Heartworm Society (AHS)](https://www.heartwormsociety.org/resources) - Comprehensive resource center for Heartworm-related information (diagnosis, treatment & care).
 - [Resources for pet owners - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners) - Collection of resources for pet owners on proper pet care, first aid, and pet health concerns.
-  - [Emergency Care](https://www.avma.org/resources-tools/pet-owners/emergency-care) - Immediate first aid and emergency care, strictly as a bridge until your animal can be seen by a veterinarian.
-  - [(Choosing & knowing) Your Veterinarian](https://www.avma.org/resources-tools/pet-owners/yourvet) - Guide about choosing a good vet and co-ordinating with them to ensure the best treatment for your animal.
 - [Standard Veterinary Treatment Guidelines for Livestock and Poultry - DAHD India](https://dahd.gov.in/sites/default/files/2024-10/StandardVeterinaryTreatment.pdf) - Treatment guidebook for diseases in cattle, sheep, goats, camels and other animals.
-- [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet wwnership, shelter adoption programme and animal assisted interventions.
+- [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet ownership, shelter adoption programme and animal assisted interventions.
 - [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. _Intended only for non-emergency animal health queries._
 - [Symptom Checker for Cats and Dogs - Sydney Animal Hospitals](https://sydneyanimalhospitals.com.au/resources/symptom-checker/) - Symptom checker to guide on next steps of treatment. _Intended only for non-emergency animal health queries._
 - [The Problem of Self-Medication in Pets - SAVA Healthcare](https://savavet.com/the-problem-of-self-medication-in-pets/) - Article explains why self-medication your pet is a problem and what you should do instead.
@@ -113,8 +113,8 @@ Goal of this project is simply to gather verified animal care content written by
 - [Association of Shelter Veterinarians](https://www.sheltervet.org/)
 - [BirdLife International](https://www.birdlife.org/)
 - [Blue Cross of India](https://bluecrossofindia.org/)
+- [Brooke India](https://www.thebrookeindia.in/)
 - [Brooke International](https://www.thebrooke.org/)
-  - [Brooke India](https://www.thebrookeindia.in/)
 - [Cats Protection UK](https://www.cats.org.uk)
 - [Dog's Trust](https://www.dogstrust.org.uk/)
 - [Eurogroup for Animals](https://www.eurogroupforanimals.org/)
@@ -134,27 +134,23 @@ Goal of this project is simply to gather verified animal care content written by
 - [The People's Dispensary for Sick Animals (PDSA)](https://www.pdsa.org.uk/)
 - [The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/)
 - [World Animal Protection (WAP now, formerly WSPA)](https://www.worldanimalprotection.org)
-  - [World Animal Protection India](https://www.worldanimalprotection.org.in/)
+- [World Animal Protection India](https://www.worldanimalprotection.org.in/)
 - [World Horse Welfare](https://www.worldhorsewelfare.org)
 - [World Parrot Trust](https://parrots.org/)
-
----
 
 ### Food Hazards & Poison Control
 
 > Note: If your animal ingests any of the known toxic substances, contact your vet immediately.
 
 - [Food Hazards - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/special-pet-topics/poisoning/food-hazards) - Most common foods that can cause illness in animals.
+- [People Foods to Avoid Feeding Your Pets - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets)
 - [Pet Poison Helpline](https://www.petpoisonhelpline.com/poisons/) - Searchable list of common substances, poisonous to animals.
 - [Poison Control - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control) - Valuable information to help owners recognize and protect their pets from poisonous substances including plants, human foods, human medications, etc.
-  - [People Foods to Avoid Feeding Your Pets](https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets)
-  - [Poisonous Household Products](https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products)
-  - [Poisonous Plants](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants)
-  - [Top 10 Deadliest Pet Poisons](https://www.aspcapro.org/resource/top-10-deadliest-pet-poisons)
+- [Poisonous Household Products - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/poisonous-household-products)
+- [Poisonous Plants - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants)
+- [Top 10 Deadliest Pet Poisons - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspcapro.org/resource/top-10-deadliest-pet-poisons)
 - [Toxicoses From Household Cleaners and Personal Care Products in Animals - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/toxicology/toxicoses-from-household-hazards/toxicoses-from-household-cleaners-and-personal-care-products-in-animals)
 - [US FDA - Potentially Dangerous Items for Your Pet](https://www.fda.gov/animal-veterinary/animal-health-literacy/potentially-dangerous-items-your-pet) - Guide to edible and non-edible substances potentially dangerous to animals.
-
----
 
 ## Cats
 
@@ -162,24 +158,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 - [Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf)
 - [Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf)
-- Essential Guides by Cats Protection:
-  - [Essential Guide 1, Caring for your cat - Cats Protection](https://www.cats.org.uk/media/rvpf24h5/caring-for-your-cat-2025.pdf)
-  - [Essential Guide 2, Bringing your cat home - Cats Protection](https://www.cats.org.uk/media/cypfc3nz/bringing-your-cat-home-2025.pdf)
-  - [Essential Guide 3, Moving house - Cats Protection](https://www.cats.org.uk/media/4krfpztk/moving-house-2025.pdf)
-  - [Essential Guide 4, Feeding and obesity - Cats Protection](https://www.cats.org.uk/media/s1ffaczy/feeding-and-obesity-2025.pdf)
-  - [Essential Guide 5, Keeping your cat safe - Cats Protection](https://www.cats.org.uk/media/d4nfuqsi/keeping-your-cat-safe-2025.pdf)
-  - [Essential Guide 6, End of life, grief and loss - Cats Protection](https://www.cats.org.uk/media/t0hnrau1/end-of-life-grief-and-loss-2025.pdf)
-  - [Essential Guide 7, Microchipping - Cats Protection](https://www.cats.org.uk/media/mujlzm13/microchipping-2025.pdf)
-  - [Essential Guide 8, Neutering - Cats Protection](https://www.cats.org.uk/media/sn5dd54p/neutering-2025.pdf)
-  - [Essential Guide 9, Understanding your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/qaklxqm5/understanding-cat-behaviour-2025.pdf)
-  - [Essential Guide 10, Managing your cat's behaviour - Cats Protection](https://www.cats.org.uk/media/lbdflus5/managing-cat-behaviour-2025.pdf)
-  - [Essential Guide 11, Cats living together - Cats Protection](https://www.cats.org.uk/media/bhlj1ntp/cats-living-together-2025.pdf)
-  - [Essential Guide 12, Indoor and outdoor cats - Cats Protection](https://www.cats.org.uk/media/ed1bri0v/indoor-and-outdoor-cats-2025.pdf)
-  - [Essential Guide 13, Elderly cats - Cats Protection](https://www.cats.org.uk/media/dkqjvau1/elderly-cats-2025.pdf)
-  - [Essential Guide 14, Cats and people - Cats Protection](https://www.cats.org.uk/media/3x0dv5pr/cats-and-people-2025.pdf)
-  - [Essential Guide 15, Caring for your kitten - Cats Protection](https://www.cats.org.uk/media/1ecfurys/caring-for-your-kitten-2025.pdf)
-  - [Essential Guide 16, Feral cats - Cats Protection](https://www.cats.org.uk/media/ik0k4xe2/feral-cats-2025.pdf)
-  - [Essential Guide 17, Pregnant cats, birth and the care of young kittens](https://www.cats.org.uk/media/vtfjwa3l/pregnant-cats-2025.pdf)
+- [Essential Guides - Cats Protection](https://www.cats.org.uk/help-and-advice/information-leaflets/essential-guides) - Set of 17 essential PDF guides covering comprehensive cat care topics.
 - [Think Like a Cat: How to Raise a Well-Adjusted Cat, Not a Sour Puss - Miriam M. Gonzalez Hernandez](https://www.goodreads.com/book/show/13484.Think_Like_a_Cat)
 - [Total Cat Mojo: The Ultimate Guide to Life with Your Cat - Jackson Galaxy](https://www.goodreads.com/book/show/34066800-total-cat-mojo)
 
@@ -188,9 +167,9 @@ Goal of this project is simply to gather verified animal care content written by
 - [Cats.com](https://cats.com/) - In-depth cat product reviews to veterinarian-written guides on cat health issues, medications, and more.
 - [Cat Advice - International Cat Care](https://icatcare.org/cat-advice) - Searchable collection of in-depth cat advice articles on a huge range of feline health and wellbeing topics.
 - [Cat Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care) - Tips, solutions and answers to some of your most frequently asked feline questions.
-  - [Common Cat Diseases](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
 - [Cat Health Center - FETCH by WebMD](https://www.webmd.com/pets/cats/default.htm) - Collection of information resources related to cat health.
 - [Catster](https://www.catster.com/) - Information about cat health, behaviour, and products. A popular cat blog called "Conscious Cat" is [now part of Catster](https://www.catster.com/lifestyle/conscious-cat-is-now-a-part-of-catster/).
+- [Common Cat Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
 
 ### Cat Behaviour & Training
 
@@ -228,8 +207,8 @@ Goal of this project is simply to gather verified animal care content written by
 - [Calculate Your Dog's Age: How Old Is Your Dog? - Alyson Powell Key, Annie Stuart on WebMD FETCH](https://www.webmd.com/pets/dogs/how-to-calculate-your-dogs-age) - Provides a dog age chart to calculate your dog's age the right way.
 - [Canine Heartworm Guidelines - American Heartworm Society](https://www.heartwormsociety.org/resources/54-heartworm-guidelines/375-canine-heartworm-guidelines) - Includes guidelines for prevention, diagnosis and management of heartworm infections.
 - [Checklist for Puppy Proofing Your Home - Cathy Madson on Preventive Vet](https://www.preventivevet.com/dogs/checklist-for-puppy-proofing-your-home) - Provides a simple checklist of things to do when getting your new puppy or dog home.
+- [Common Dog Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/dog-care/common-dog-diseases) - Information about diseases and other medical inflictions that frequently impact dogs.
 - [Dog Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/dog-care) - Wide range of dog health and behaviour tips that will help you provide the best possible care for your canine companion.
-  - [Common Dog Diseases](https://www.aspca.org/pet-care/dog-care/common-dog-diseases) - Information about diseases and other medical inflictions that frequently impact dogs.
 - [Dog Health Center - FETCH by WebMD](https://www.webmd.com/pets/dogs/default.htm) - Collection of information resources related to dog health.
 - [Gastric Dilation-Volvulus (Bloat) - Veterinary Medical Center of Central New York](https://vmccny.com/gastric-dilatationvolvulus-bloat/) - Discusses bloat in dogs, a deadly but preventable condition with its causes, signs, treatment, prognosis, prevention and care.
 - [Heartworm Disease in Dogs: Testing - VCA Animal Hospitals](https://vcahospitals.com/know-your-pet/testing-for-heartworm-disease-in-dogs) - Information about the heartworm disease in dogs.
@@ -334,9 +313,9 @@ Goal of this project is simply to gather verified animal care content written by
 ### Parrot Care & Treatment
 
 - [Beyond Bird Basics (BBB) - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/bbb-class/) - Series of educational presentations and quizzes, free to the public. Covers health and anatomy, enrichment, food and nutrition, and behaviour and training.
-  - [Bird Health & Anatomy Part 1](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Health-and-Anatomy-Pt-1.pdf) - Covers topics like bird poop, bathing your bird, laying eggs, bird dust and dangar, feather plucking and sleep time.
-  - [Bird Health & Anatomy Part 2](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Anatomy-and-Health-pt2.pdf) - Covers topics like bird respiratory system, boogers, nosebleeds, food digestion, regurgitation and vomiting, beak health and some common illnesses in birds.
-  - [Parrot Enrichment](https://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Enrichment-BBB.pdf) - Covers various types of bird enrichment activities.
+- [Bird Health & Anatomy Part 1 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Health-and-Anatomy-Pt-1.pdf) - Covers topics like bird poop, bathing your bird, laying eggs, bird dust and dangar, feather plucking and sleep time.
+- [Bird Health & Anatomy Part 2 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Anatomy-and-Health-pt2.pdf) - Covers topics like bird respiratory system, boogers, nosebleeds, food digestion, regurgitation and vomiting, beak health and some common illnesses in birds.
+- [Parrot Enrichment - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Enrichment-BBB.pdf) - Covers various types of bird enrichment activities.
 - [Parrot Care - World Parrot Trust](https://parrots.org/learn/care-guides/) - Parrot care resources, including easy enrichment ideas, important dietary tips and videos.
 
 ### Parrot Behaviour & Training
@@ -352,9 +331,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ## Contributing
 
-Your contributions are always welcome! To contribute, make your changes to [readme.md](https://github.com/omkar-foss/awesome-animal-care/blob/main/readme.md) as explained [in this guide](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository) and create a pull request. Make sure to follow the [contribution guidelines](https://github.com/omkar-foss/awesome-animal-care/blob/main/contributing.md).
-
-If you find this list helpful, please consider starring this repo to help others find it, and share it with your fellow animal lovers!
+Your contributions are always welcome! To get started, refer to [contributing.md](contributing.md).
 
 ## Footnotes
 
