@@ -55,15 +55,15 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Books
 
-- [Animal Behavior for Shelter Veterinarians and Staff - Emily Weiss, Heather Mohan-Gibbons, Stephen Zawistowski](https://www.goodreads.com/book/show/24044773-animal-behavior-for-shelter-veterinarians-and-staff)
-- [Animal Care and Use Handbook - Virginia State University](https://www.vsu.edu/files/docs/research/vsu-animal-care-handbook.pdf)
-- [Guidelines for the design and management of animal shelters - International Companion Animal Coalition](https://www.icam-coalition.org/wp-content/uploads/2017/03/Shelter-guidelines-English.pdf)
-- [Highlights of The Guidelines for Standards of Care in Animal Shelters - Association of Shelter Veterinarians](https://www.sheltervet.org/assets/docs/4__Facilities_Final_06AUG2024.pdf)
-- [Pet Care Basics - Premier VetCare](https://premiervetcare.co/storage/app/media/PET_CARE_BASICS.pdf)
-- [Rescue Group Best Practices Guide - Humane World for Animals](https://humanepro.org/sites/default/files/documents/RescueGroupBestPracticesGuide.pdf)
-- [The Best Practice Playbook for Animal Shelters - Sara Pizano, Kate Hurley](https://www.goodreads.com/book/show/45720532-the-best-practice-playbook-for-animal-shelters)
-- [Wildlife Rescue Handbook: The First 24 Hours - Wildlife Heroes](https://wildlifeheroes.org.au/wp-content/uploads/2021/09/WildlifeHeroesWildlifeRescueHandbookFinal.pdf)
-- [Zoobiquity: The Astonishing Connection Between Human and Animal Health - Barbara Natterson-Horowitz, Kathryn Bowers](https://www.goodreads.com/book/show/15797326-zoobiquity)
+- [Animal Behavior for Shelter Veterinarians and Staff - Emily Weiss, Heather Mohan-Gibbons, Stephen Zawistowski](https://www.goodreads.com/book/show/24044773-animal-behavior-for-shelter-veterinarians-and-staff) - Presents and evaluates the available research and programs that address both animal and human behaviors associated with the intake, management and rehoming of dog and cats.
+- [Animal Care and Use Handbook - Virginia State University](https://www.vsu.edu/files/docs/research/vsu-animal-care-handbook.pdf) - Comprehensive guidelines for the ethical treatment, housing and management of laboratory animals at Virginia State University.
+- [Guidelines for the design and management of animal shelters - International Companion Animal Coalition](https://www.icam-coalition.org/wp-content/uploads/2017/03/Shelter-guidelines-English.pdf) - Handbook containing guidelines for the design and management of animal shelters.
+- [The Guidelines for Standards of Care in Animal Shelters - Association of Shelter Veterinarians](https://jsmcah.org/index.php/jasv/article/view/42/19) - Evidence-based, consensus-driven standards and guidance for improving companion animal shelter care, welfare, design and policy.
+- [Pet Care Basics - Premier VetCare](https://premiervetcare.co/storage/app/media/PET_CARE_BASICS.pdf) - Practical home wellness guide covering essential pet care topics like vaccinations, parasite prevention, dental health, disease prevention and emergency care.
+- [Rescue Group Best Practices Guide - Humane World for Animals](https://humanepro.org/sites/default/files/documents/RescueGroupBestPracticesGuide.pdf) - Provide general information about animal rescue best practices.
+- [The Best Practice Playbook for Animal Shelters - Sara Pizano, Kate Hurley](https://www.goodreads.com/book/show/45720532-the-best-practice-playbook-for-animal-shelters) - Concise playbook of proven strategies for animal shelters to reduce intake, improve outcomes, engage communities and build compassionate, data-driven animal welfare systems.
+- [Wildlife Rescue Handbook: The First 24 Hours - Wildlife Heroes](https://wildlifeheroes.org.au/wp-content/uploads/2021/09/WildlifeHeroesWildlifeRescueHandbookFinal.pdf) - First-response guide to safely rescuing, handling and providing essential first aid to injured wildlife before transferring them to professional care.
+- [Zoobiquity: The Astonishing Connection Between Human and Animal Health - Barbara Natterson-Horowitz, Kathryn Bowers](https://www.goodreads.com/book/show/15797326-zoobiquity) - Thought-provoking exploration of the deep connections between human and animal health, showing how a cross-species, collaborative approach to medicine can improve understanding, diagnosis and treatment for all.
 
 ### Care & Treatment
 
@@ -156,11 +156,11 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Cat Books
 
-- [Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf)
-- [Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf)
-- [Essential Guides - Cats Protection](https://www.cats.org.uk/help-and-advice/information-leaflets/essential-guides) - Set of 17 essential PDF guides covering comprehensive cat care topics.
-- [Think Like a Cat: How to Raise a Well-Adjusted Cat, Not a Sour Puss - Miriam M. Gonzalez Hernandez](https://www.goodreads.com/book/show/13484.Think_Like_a_Cat)
-- [Total Cat Mojo: The Ultimate Guide to Life with Your Cat - Jackson Galaxy](https://www.goodreads.com/book/show/34066800-total-cat-mojo)
+- [Bark!, The Official BCSPCA Guide Cat Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/cat-care-guide.pdf) - Comprehensive, practical guide to responsible cat ownership covering health, behavior, nutrition and everyday care essentials.
+- [Cat Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Cat-Book.pdf) - Hands-on adoption and care manual addressing common cat health, behavior, training and household integration challenges.
+- [Essential Guides - Cats Protection](https://www.cats.org.uk/help-and-advice/information-leaflets/essential-guides) - Set of 17 essential PDF guides offering expert advice on all aspects of cat care, behavior and welfare.
+- [Think Like a Cat: How to Raise a Well-Adjusted Cat, Not a Sour Puss - Miriam M. Gonzalez Hernandez](https://www.goodreads.com/book/show/13484.Think_Like_a_Cat) - Behavior-focused guide that helps owners understand feline instincts and communication to build a he
+- [Total Cat Mojo: The Ultimate Guide to Life with Your Cat - Jackson Galaxy](https://www.goodreads.com/book/show/34066800-total-cat-mojo) - Guide to understanding cat psychology and creating an enriching environment that promotes confidence, wellbeing and strong human-cat bonds.
 
 ### Cat Care & Treatment
 
@@ -189,18 +189,18 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Dog Books
 
-- [Adopter's Guide to Rescue Dogs, What to do and expect in the first few months - Ruth Hegarty, M.S.E., Dog Trainer in association with Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/wp-content/uploads/ARK-Rescue-Dog-Adopter-Guide.pdf)
-- [After You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf)
-- [Bark!, The Official BCSPCA Dog Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/dog-care-guide.pdf)
-- [Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy, and Well-Behaved Dog - Dr. Ian Dunbar with Michael Page](https://www.goodreads.com/book/show/201616.Before_and_After_Getting_Your_Puppy)
-- [Before You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf)
-- [Dog Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Dog-Book.pdf)
-- [Feeling Outnumbered?: How to Manage and Enjoy Your Multi-Dog Household - Karen B. London, Patricia B. McConnell](https://www.goodreads.com/book/show/557368.Feeling_Outnumbered_)
-- [I'll be Home Soon: How to Prevent and Treat Separation Anxiety. - Patricia B. McConnell](https://www.goodreads.com/book/show/592136.I_ll_be_Home_Soon)
-- [Rescuing Rover: A First Aid and Disaster Guide for Dog Owners - Sebastian E. Heath, Purdue University](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1006&context=purduepress_ebooks)
-- [The Healthy Dog, An Intro to How to Keep Your Dog Healthy - American Kennel Club](https://images.akc.org/pdf/ebook/healthy_dog.pdf)
-- [The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier, and Longer - Rodney Habib, Karen Shaw Becker](https://www.goodreads.com/book/show/56304413-the-forever-dog)
-- [Wag: The Science of Making Your Dog Happy - Zazie Todd](https://www.goodreads.com/book/show/48840518-wag)
+- [Adopter's Guide to Rescue Dogs, What to do and expect in the first few months - Ruth Hegarty, M.S.E., Dog Trainer in association with Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/wp-content/uploads/ARK-Rescue-Dog-Adopter-Guide.pdf) - Practical roadmap for new adopters on helping rescue dogs adjust, build trust and thrive during the critical first months.
+- [After You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/AFTER_You_Get_Your_Puppy.pdf) - Step-by-step guide to raising a well-behaved puppy through early training, socialization and habit-building from day one.
+- [Bark!, The Official BCSPCA Dog Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/dog-care-guide.pdf) - Comprehensive guide to responsible dog ownership covering health, behavior, training and daily care essentials.
+- [Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy and Well-Behaved Dog - Dr. Ian Dunbar with Michael Page](https://www.goodreads.com/book/show/201616.Before_and_After_Getting_Your_Puppy) - Complete, positive-training manual covering everything from choosing a puppy to raising a well-mannered, socially confident dog.
+- [Before You Get Your Puppy - Dr. Ian Dunbar, Dog Star Daily Blog](https://www.dogstardaily.com/files/downloads/BEFORE_You_Get_Your_Puppy.pdf) - Preparatory guide to choosing the right puppy and setting up a strong foundation for successful training and lifelong wellbeing.
+- [Dog Owner's Guide - Humane Fort Wayne](https://humanefw.org/wp-content/uploads/2021/02/Dog-Book.pdf) - Comprehensive handbook for dog owners covering health care, behavior management, training basics and home integration.
+- [Feeling Outnumbered?: How to Manage and Enjoy Your Multi-Dog Household - Karen B. London, Patricia B. McConnell](https://www.goodreads.com/book/show/557368.Feeling_Outnumbered_) - Behaviour-focused guide to managing multi-dog households and fostering harmony between dogs.
+- [I'll be Home Soon: How to Prevent and Treat Separation Anxiety. - Patricia B. McConnell](https://www.goodreads.com/book/show/592136.I_ll_be_Home_Soon) - Concise guide to understanding, preventing and treating separation anxiety in dogs.
+- [Rescuing Rover: A First Aid and Disaster Guide for Dog Owners - Sebastian E. Heath, Purdue University](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1006&context=purduepress_ebooks) - First aid and disaster preparedness guide to help dog owners respond effectively in emergencies.
+- [The Healthy Dog, An Intro to How to Keep Your Dog Healthy - American Kennel Club](https://images.akc.org/pdf/ebook/healthy_dog.pdf) - Introductory guide to maintaining canine health through nutrition, preventive care and routine wellness practices.
+- [The Forever Dog: Surprising New Science to Help Your Canine Companion Live Younger, Healthier and Longer - Rodney Habib, Karen Shaw Becker](https://www.goodreads.com/book/show/56304413-the-forever-dog) - Science-backed exploration of nutrition, lifestyle and environmental factors to help dogs live longer, healthier lives.
+- [Wag: The Science of Making Your Dog Happy - Zazie Todd](https://www.goodreads.com/book/show/48840518-wag) - Evidence-based guide to improving dog wellbeing through positive training, enrichment and understanding canine behavior.
 
 ### Dog Care & Treatment
 
@@ -240,10 +240,10 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Fish Books
 
-- [Encyclopedia Of Aquarium & Pond Fish](https://www.goodreads.com/book/show/7040849-encyclopedia-of-aquarium-pond-fish)
-- [Freshwater Aquarium Handbook - Elmer's Aquarium](https://www.elmersaquarium.com/pdf-files/FW%20Handbook.pdf)
-- [Sunken Gardens: A Step-by-Step Guide to Planting Freshwater Aquariums - Karen Randall](https://www.goodreads.com/book/show/26026127-sunken-gardens)
-- [Tropical Fish, A Beginner's Guide - William Berg, AC Tropical Fish](https://www.aquaticcommunity.com/Tropical_Fish-A_Beginners_Guide.pdf)
+- [Encyclopedia Of Aquarium & Pond Fish](https://www.goodreads.com/book/show/7040849-encyclopedia-of-aquarium-pond-fish) - Illustrated reference covering hundreds of fish species alongside practical guidance on selection, care, compatibility, and aquarium or pond setup.
+- [Freshwater Aquarium Handbook - Elmer's Aquarium](https://www.elmersaquarium.com/pdf-files/FW%20Handbook.pdf) - Beginner-friendly manual covering aquarium setup, maintenance, water quality, and essential fish care practices for freshwater tanks.
+- [Sunken Gardens: A Step-by-Step Guide to Planting Freshwater Aquariums - Karen Randall](https://www.goodreads.com/book/show/26026127-sunken-gardens) - Comprehensive guide to designing, planting, and maintaining beautiful aquascapes, combining aquatic plant science with practical aquarium care.
+- [Tropical Fish, A Beginner's Guide - William Berg, AC Tropical Fish](https://www.aquaticcommunity.com/Tropical_Fish-A_Beginners_Guide.pdf) - Introductory guide to keeping tropical fish, focusing on tank setup, species selection, and basic care for new aquarists.
 
 ### Fish Care & Treatment
 
@@ -274,8 +274,8 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Horse Books
 
-- [Complete Guide to Horse Care - The Humane Society of the United States](https://www.humaneworld.org/sites/default/files/docs/HSUS_complete-guide-to-horse-care.pdf)
-- [How to Think Like A Horse: The Essential Handbook for Understanding Why Horses Do What They Do - Cherry Hill](https://www.goodreads.com/book/show/13456.How_to_Think_Like_A_Horse)
+- [Complete Guide to Horse Care - The Humane Society of the United States](https://www.humaneworld.org/sites/default/files/docs/HSUS_complete-guide-to-horse-care.pdf) - Comprehensive, practical guide to responsible horse ownership covering nutrition, health, behavior, housing, and lifelong welfare needs.
+- [How to Think Like A Horse: The Essential Handbook for Understanding Why Horses Do What They Do - Cherry Hill](https://www.goodreads.com/book/show/13456.How_to_Think_Like_A_Horse) - Behaviour-focused guide to understanding how horses perceive the world, helping owners communicate effectively and build trust through insight into equine instincts and psychology.
 
 ### Horse Care & Treatment
 
@@ -301,14 +301,14 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Parrot Books
 
-- [Good Parrotkeeping: A Comprehensive Guide to All Things Parrot - Robin Deutsch](https://www.goodreads.com/book/show/6892333-good-parrotkeeping)
-- [How to have a HAPPY HEALTHY PARROT - World Parrot Trust](https://parrots.org/wp-content/uploads/2023/01/HHP_UKLEAFLET.pdf)
-- [Happy Healthy Parrot Guide, A Reference for Beginners - World Parrot Trust](https://parrots.org/wp-content/uploads/2025/02/New-Parrot-Owners-Guide.pdf)
-- [Parrot Parenting: The Essential Care and Training Guide to +20 Parrot Species - Carol Frischmann](https://www.goodreads.com/book/show/20702641-parrot-parenting)
-- [Parrot Training: A Guide to Taming and Gentling Your Avian Companion](https://www.goodreads.com/book/show/917019.Parrot_Training)
-- [The A to Z eBook on Parrot Care - Nathalie Roberts](https://www.parrotsecrets.com/The_A_to_Z_e_Book_on_Parrot_Care.pdf)
-- [The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf)
-- [The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf)
+- [Good Parrotkeeping: A Comprehensive Guide to All Things Parrot - Robin Deutsch](https://www.goodreads.com/book/show/6892333-good-parrotkeeping) - Comprehensive guide to responsible parrot care, covering behavior, nutrition, health, and creating a suitable home environment.
+- [How to have a HAPPY HEALTHY PARROT - World Parrot Trust](https://parrots.org/wp-content/uploads/2023/01/HHP_UKLEAFLET.pdf) - Concise, welfare-focused guide to proper parrot care, emphasizing diet, enrichment, and physical and psychological wellbeing.
+- [Happy Healthy Parrot Guide, A Reference for Beginners - World Parrot Trust](https://parrots.org/wp-content/uploads/2025/02/New-Parrot-Owners-Guide.pdf) - Beginner-friendly handbook introducing essential parrot care practices, including housing, nutrition, behavior, and welfare needs.
+- [Parrot Parenting: The Essential Care and Training Guide to +20 Parrot Species - Carol Frischmann](https://www.goodreads.com/book/show/20702641-parrot-parenting) - Practical guide to caring for and training multiple parrot species, with a focus on behavior, bonding, and daily care routines.
+- [Parrot Training: A Guide to Taming and Gentling Your Avian Companion](https://www.goodreads.com/book/show/917019.Parrot_Training) - Step-by-step introduction to building trust and training parrots using gentle, behavior-based techniques.
+- [The A to Z eBook on Parrot Care - Nathalie Roberts](https://www.parrotsecrets.com/The_A_to_Z_e_Book_on_Parrot_Care.pdf) - Broad reference guide covering key aspects of parrot care, from basic needs to behavior and long-term wellbeing.
+- [The Bird Owner's Manual - Emily Strong](https://bestfriends.org/sites/default/files/2024-07/thebirdownersmanual%20%281%29.pdf) - Practical, accessible guide to companion bird care, focusing on behavior, training, enrichment, and welfare.
+- [The Parrot Enrichment Activity Book, Version 2.0 - Kris Porter](https://www.behaviorworks.org/files/articles/Parrot%20Enrichment%20Activity%20Book%202.pdf) - Hands-on resource of enrichment ideas and activities designed to improve parrots’ mental stimulation and quality of life.
 
 ### Parrot Care & Treatment
 
