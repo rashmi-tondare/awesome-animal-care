@@ -2,13 +2,13 @@
 
 # Awesome Animal Care [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Caring for dogs, cats, fish, horses, parrots, and other animals.
+> Caring for dogs, cats, fish, horses, parrots and other animals.
 
 Goal of this project is simply to gather verified animal care content written by experts and genuinely passionate people.
 
 **Disclaimer: PLEASE READ THIS BEFORE PROCEEDING**
 
-- The information, links and resources provided here are for educational and informational purposes only, and not intended to be a substitute for professional veterinary advice, diagnosis, or treatment.
+- The information, links and resources provided here are for educational and informational purposes only and not intended to be a substitute for professional veterinary advice, diagnosis or treatment.
 - Always seek the advice of your veterinarian or other qualified animal health provider with any questions you may have regarding a medical condition or the health of your animal.
 - Never disregard professional veterinary advice or delay in seeking it because of something you have read in this material.
 - If you think your animal has a medical emergency, call or visit your veterinarian or local animal hospital immediately.
@@ -73,7 +73,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [Management of Specific Wounds in Small Animals - MSD (Merck) Vet Manual](https://www.msdvetmanual.com/emergency-medicine-and-critical-care/wound-management-in-small-animals/management-of-specific-wounds-in-small-animals) - Useful information to treat wounds in small animals like cats, dogs, rabbits, mice, ferrets, etc.
 - [Pet Health Checker - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://www.vancouverspcavet.ca/pet-health-resources/pet-health-checker/) - Symtom checker for dogs and cats.
 - [Resource Center - American Heartworm Society (AHS)](https://www.heartwormsociety.org/resources) - Comprehensive resource center for Heartworm-related information (diagnosis, treatment & care).
-- [Resources for pet owners - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners) - Collection of resources for pet owners on proper pet care, first aid, and pet health concerns.
+- [Resources for pet owners - American Veterinary Medical Association (AVMA)](https://www.avma.org/resources-tools/pet-owners) - Collection of resources for pet owners on proper pet care, first aid and pet health concerns.
 - [Standard Veterinary Treatment Guidelines for Livestock and Poultry - DAHD India](https://dahd.gov.in/sites/default/files/2024-10/StandardVeterinaryTreatment.pdf) - Treatment guidebook for diseases in cattle, sheep, goats, camels and other animals.
 - [Stray Animal Care - FOUR PAWS International](https://www.four-paws.org/campaigns-topics/topics/help-for-stray-animals) - Collection of stray animal care resources including topics like Catch-Neuter-Vaccinate-Return (CNVR), community engagement, monitoring, evaluation & impact, responsible pet ownership, shelter adoption programme and animal assisted interventions.
 - [Symptom Checker for Cats and Dogs - PetMD](https://www.petmd.com/symptom-checker) - Useful tool by Chewy’s vet team to quickly find out what might be going on and what to do next. _Intended only for non-emergency animal health queries._
@@ -82,19 +82,19 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Diet & Nutrition
 
-- [Creating a Nutrition Plan - Pet Nutrition Alliance](https://petnutritionalliance.org/resources/nutritional-assessment-procedure/creating-a-nutritional-plan/) - Includes establishing nutrient goals, providing a complete and balanced diet for patients, selecting an appropriate food, and determining how much to feed.
+- [Creating a Nutrition Plan - Pet Nutrition Alliance](https://petnutritionalliance.org/resources/nutritional-assessment-procedure/creating-a-nutritional-plan/) - Includes establishing nutrient goals, providing a complete and balanced diet for patients, selecting an appropriate food and determining how much to feed.
 
 ### News
 
 - [Daily Paws](https://www.dailypaws.com/) - Solid info on the everyday stuff (health issues, behavior, questions, challenges) for pet parents.
 - [Latest News & Blogs - World Animal Protection](https://www.worldanimalprotection.org/latest/) - News and blogs from WAP, an animal protection and welfare organization.
-- [National Geographic](https://www.nationalgeographic.com/animals) - Some of nature's most incredible species through recent discoveries and groundbreaking studies on animal habitats, behaviors, and unique adaptations.
+- [National Geographic](https://www.nationalgeographic.com/animals) - Some of nature's most incredible species through recent discoveries and groundbreaking studies on animal habitats, behaviors and unique adaptations.
 - [The Dodo](https://www.thedodo.com/) - News for Animal People.
 - [World Animal News](https://worldanimalnews.com/) - Covers news on everything from wild and domestic animals to threatened and endangered species.
 
 ### RSS Feeds
 
-- [Animal Health Smartbrief - American Veterinary Medical Association (AVMA)](http://www.smartbrief.com/servlet/rss?b=AVMA) - RSS feed link for AVMA's daily newsletter providing news of importance to animal health professionals. This includes: veterinary medicine updates, animal welfare and pet product news, best business practices, and regulatory updates.
+- [Animal Health Smartbrief - American Veterinary Medical Association (AVMA)](http://www.smartbrief.com/servlet/rss?b=AVMA) - RSS feed link for AVMA's daily newsletter providing news of importance to animal health professionals. This includes: veterinary medicine updates, animal welfare and pet product news, best business practices and regulatory updates.
 - [The Dog Pod - Rebecca Tompkins](https://media.rss.com/thedogpod/feed.xml) - RSS feed link for The Dog Pod podcast which publishes curated, canine-related content.
 
 ### Veterinary Reference
@@ -104,39 +104,39 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Welfare Organizations
 
-- [American Bird Conservancy (ABC)](https://abcbirds.org/)
-- [American Heartworm Society (AHS)](https://www.heartwormsociety.org/)
-- [American Kennel Club (AKC)](https://www.akc.org/)
-- [American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/)
-- [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
-- [Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/)
-- [Association of Shelter Veterinarians](https://www.sheltervet.org/)
-- [BirdLife International](https://www.birdlife.org/)
-- [Blue Cross of India](https://bluecrossofindia.org/)
-- [Brooke India](https://www.thebrookeindia.in/)
-- [Brooke International](https://www.thebrooke.org/)
-- [Cats Protection UK](https://www.cats.org.uk)
-- [Dog's Trust](https://www.dogstrust.org.uk/)
-- [Eurogroup for Animals](https://www.eurogroupforanimals.org/)
-- [FOUR PAWS International](https://www.four-paws.org/)
-- [German Animal Welfare Foundation (Deutscher Tierschutzbund)](https://www.tierschutzbund.de)
-- [Humane Fort Wayne](https://humanefw.org)
-- [Humane World for Animals](https://www.humaneworld.org/en)
-- [International Bird Rescue](https://www.birdrescue.org/)
-- [International Companion Animal Coalition](https://www.icam-coalition.org/)
-- [International Cat Care](https://icatcare.org/)
-- [People for the Ethical Treatement of Animals (PETA)](https://www.peta.org/)
-- [People For Animals India (PFA India)](https://www.peopleforanimalsindia.org/)
-- [Pet Nutrition Alliance (PNA)](https://petnutritionalliance.org/)
-- [Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/)
-- [Royal Society for Protection of Birds (RSPB)](https://www.rspb.org.uk/)
-- [Save The Snakes](https://savethesnakes.org/)
-- [The People's Dispensary for Sick Animals (PDSA)](https://www.pdsa.org.uk/)
-- [The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/)
-- [World Animal Protection (WAP now, formerly WSPA)](https://www.worldanimalprotection.org)
-- [World Animal Protection India](https://www.worldanimalprotection.org.in/)
-- [World Horse Welfare](https://www.worldhorsewelfare.org)
-- [World Parrot Trust](https://parrots.org/)
+- [American Bird Conservancy (ABC)](https://abcbirds.org/) - Conserves birds and their habitats through policy advocacy and direct action.
+- [American Heartworm Society (AHS)](https://www.heartwormsociety.org/) - Leads the veterinary profession in the diagnosis, treatment and prevention of heartworm disease.
+- [American Kennel Club (AKC)](https://www.akc.org/) - Dog registry that promotes responsible dog ownership and maintains breed standards.
+- [American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/) - One of the largest animal rights groups in the world, focused on awareness, rescue, protection and placement.
+- [American Veterinary Medical Association (AVMA)](https://www.avma.org/) - Not-for-profit organization that represents over 108,000 members, aiming to advance the veterinary profession while protecting animal and human health.
+- [Animal Rescue Konnection (ARK)](https://animalrescuekonnection.org/) - Provides resources and support to help shelters and rescues save "at-risk" dogs through awareness and training.
+- [Association of Shelter Veterinarians](https://www.sheltervet.org/) - Advances the practice of shelter medicine to improve the health and well-being of animals in rehoming centers.
+- [BirdLife International](https://www.birdlife.org/) - World's largest nature conservation partnership, uniting 124 national NGOs to protect birds and global biodiversity.
+- [Blue Cross of India](https://bluecrossofindia.org/) - One of India's oldest animal welfare charities, recognized for pioneering humane stray population management and wildlife rehabilitation.
+- [Brooke India](https://www.thebrookeindia.in/) - Branch of Brooke that works directly with equine owners in India to improve the health and working conditions of donkeys and horses.
+- [Brooke International](https://www.thebrooke.org/) - Global charity focused on the welfare of working equines, helping to sustain the livelihoods of people in developing countries.
+- [Cats Protection UK](https://www.cats.org.uk) - UK's leading cat welfare charity, focusing on rehoming stray cats, neutering campaigns and education.
+- [Dog's Trust](https://www.dogstrust.org.uk/) - Largest dog welfare charity in the UK, famous for its "A dog is for life" slogan and its commitment to never euthanising a healthy dog.
+- [Eurogroup for Animals](https://www.eurogroupforanimals.org/)- Brussels-based federation that lobbies the EU for stronger animal protection laws and better enforcement across member states.
+- [FOUR PAWS International](https://www.four-paws.org/) - Rescues animals in distress (such as bears from private keepings or strays in disaster zones) and runs sanctuaries worldwide.
+- [German Animal Welfare Foundation (Deutscher Tierschutzbund)](https://www.tierschutzbund.de) - Europe's largest animal welfare umbrella organization, representing over 800 local animal protection societies in Germany.
+- [Humane Fort Wayne](https://humanefw.org) - Indiana-based organization providing low-cost spay/neuter services, wellness clinics and pet adoptions.
+- [Humane World for Animals](https://www.humaneworld.org/en) - Promotes animal rights through international campaigns against animal testing, factory farming and wildlife exploitation.
+- [International Bird Rescue](https://www.birdrescue.org/) - Leader in the rehabilitation of aquatic birds, specifically known for its expert response to man-made environmental disasters like oil spills.
+- [International Companion Animal Coalition](https://www.icam-coalition.org/) - Coalition of global NGOs that creates standard frameworks for humane dog and cat population management.
+- [International Cat Care](https://icatcare.org/) - Works to create a world where all cats are treated with care, compassion and an understanding of their unique needs.
+- [People for the Ethical Treatement of Animals (PETA)](https://www.peta.org/) - International organization known for high-impact campaigns against the use of animals for food, clothing, research and entertainment.
+- [People For Animals India (PFA India)](https://www.peopleforanimalsindia.org/) - India's largest animal welfare organization, founded by Maneka Gandhi, which runs a network of shelters and hospitals.
+- [Pet Nutrition Alliance (PNA)](https://petnutritionalliance.org/) - Collaboration of veterinary organizations that provides objective nutritional tools for pet owners and veterinary teams.
+- [Royal Society for the Prevention of Cruelty to Animals (RSPCA)](https://www.rspca.org.uk/) - Founded in 1824, it is the world's oldest animal welfare charity, focused on investigating animal cruelty and rescuing animals in need.
+- [Royal Society for Protection of Birds (RSPB)](https://www.rspb.org.uk/)- UK's largest nature conservation charity, managing over 200 nature reserves to protect birds and their environments.
+- [Save The Snakes](https://savethesnakes.org/) - International conservation organization that protects snake populations and mitigates human-snake conflict through education.
+- [The People's Dispensary for Sick Animals (PDSA)](https://www.pdsa.org.uk/) - Provides free and low-cost veterinary treatment to the pets of people in financial need across the UK.
+- [The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/) - Parrot welfare organization providing sanctuary, rehabilitation and adoption for companion parrots.
+- [World Animal Protection (WAP now, formerly WSPA)](https://www.worldanimalprotection.org) - International non-profit working to move governments and corporations to protect animals in farming, the wild and disaster zones.
+- [World Animal Protection India](https://www.worldanimalprotection.org.in/) - Indian office of WAP, advocating for animal-friendly policies in Indian livestock management and wildlife protection.
+- [World Horse Welfare](https://www.worldhorsewelfare.org) - Focuses on the prevention of abuse and suffering of horses through education, campaigning and hands-on rehabilitation.
+- [World Parrot Trust](https://parrots.org/) - Works globally to protect wild parrots from the illegal pet trade and to improve the care of parrots in captivity.
 
 ### Food Hazards & Poison Control
 
@@ -164,11 +164,11 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Cat Care & Treatment
 
-- [Cats.com](https://cats.com/) - In-depth cat product reviews to veterinarian-written guides on cat health issues, medications, and more.
+- [Cats.com](https://cats.com/) - In-depth cat product reviews to veterinarian-written guides on cat health issues, medications and more.
 - [Cat Advice - International Cat Care](https://icatcare.org/cat-advice) - Searchable collection of in-depth cat advice articles on a huge range of feline health and wellbeing topics.
 - [Cat Care - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care) - Tips, solutions and answers to some of your most frequently asked feline questions.
 - [Cat Health Center - FETCH by WebMD](https://www.webmd.com/pets/cats/default.htm) - Collection of information resources related to cat health.
-- [Catster](https://www.catster.com/) - Information about cat health, behaviour, and products. A popular cat blog called "Conscious Cat" is [now part of Catster](https://www.catster.com/lifestyle/conscious-cat-is-now-a-part-of-catster/).
+- [Catster](https://www.catster.com/) - Information about cat health, behaviour and products. A popular cat blog called "Conscious Cat" is [now part of Catster](https://www.catster.com/lifestyle/conscious-cat-is-now-a-part-of-catster/).
 - [Common Cat Diseases - American Society for the Prevention of Cruelty to Animals (ASPCA)](https://www.aspca.org/pet-care/cat-care/common-cat-diseases) - Information about diseases and other medical inflictions that frequently impact cats.
 
 ### Cat Behaviour & Training
@@ -286,7 +286,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Horse Behaviour & Training
 
-- [Bright Horse (Horse Behaviour) blog - Barbara J. Hardman](https://www.brighthorse.ie/blog/) - Insights, practical tips, and real-life success stories about horse behaviour and training, ranging from managing anxiety to improving obedience.
+- [Bright Horse (Horse Behaviour) blog - Barbara J. Hardman](https://www.brighthorse.ie/blog/) - Insights, practical tips and real-life success stories about horse behaviour and training, ranging from managing anxiety to improving obedience.
 - [Good Horsemanship blog - Ross Jacobs](https://www.goodhorsemanship.com.au/blog) - Searchable (i.e. has a search bar) blog with posts on horse behaviour and training, with a peculiar perspective - "Assume Everything You Are Told Is Wrong Until You Are Satisfied It Isn't".
 - [Horse Behaviour blog - Kayna Prescott, Brighter Equines](https://www.brighterequines.com/journal) - Collection of blog posts on horse behaviour with tips on topics like enrichment, fear resolution and LIMA principles.
 - [Understanding Horse Body Language, A Beginner's Guide - Horseware Ireland](https://www.horseware.com/en-eu/blog) - Collections of horse health and behaviour blog posts ranging from sunburn prevention, horse body language to injury prevention and saving your horse from boredom.
@@ -312,7 +312,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Parrot Care & Treatment
 
-- [Beyond Bird Basics (BBB) - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/bbb-class/) - Series of educational presentations and quizzes, free to the public. Covers health and anatomy, enrichment, food and nutrition, and behaviour and training.
+- [Beyond Bird Basics (BBB) - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/bbb-class/) - Series of educational presentations and quizzes, free to the public. Covers health and anatomy, enrichment, food and nutrition and behaviour and training.
 - [Bird Health & Anatomy Part 1 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Health-and-Anatomy-Pt-1.pdf) - Covers topics like bird poop, bathing your bird, laying eggs, bird dust and dangar, feather plucking and sleep time.
 - [Bird Health & Anatomy Part 2 of 2 - The Gabriel Foundation (TGF)](http://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Anatomy-and-Health-pt2.pdf) - Covers topics like bird respiratory system, boogers, nosebleeds, food digestion, regurgitation and vomiting, beak health and some common illnesses in birds.
 - [Parrot Enrichment - The Gabriel Foundation (TGF)](https://thegabrielfoundation.org/wp-content/uploads/2022/07/Bird-Enrichment-BBB.pdf) - Covers various types of bird enrichment activities.
