@@ -1,4 +1,6 @@
-[<img width="767" src="images/banner.png"/>](https://omkar-foss.github.io/awesome-animal-care/)
+[<img width="767" src="images/banner.jpg"/>](https://omkar-foss.github.io/awesome-animal-care/)
+
+Above picture shows an [African bush elephant](https://en.wikipedia.org/wiki/African_bush_elephant) in a zoo playing with a suspended ball provided for [enrichment](https://en.wikipedia.org/wiki/Behavioral_enrichment).
 
 # Awesome Animal Care [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
