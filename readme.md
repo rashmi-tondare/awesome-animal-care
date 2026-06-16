@@ -132,6 +132,7 @@ Goal of this project is simply to gather verified animal care content written by
 - [International Bird Rescue](https://www.birdrescue.org/) - Leader in the rehabilitation of aquatic birds, specifically known for its expert response to man-made environmental disasters like oil spills.
 - [International Companion Animal Coalition](https://www.icam-coalition.org/) - Coalition of global NGOs that creates standard frameworks for humane dog and cat population management.
 - [International Cat Care](https://icatcare.org/) - Works to create a world where all cats are treated with care, compassion and an understanding of their unique needs.
+- [International Fund for Animal Welfare (IFAW)](https://www.ifaw.org/international) - Global nonprofit that works to rescue, protect and advocate for animals in crisis, from wildlife conservation to ending illegal trade and responding to disasters.
 - [People for the Ethical Treatement of Animals (PETA)](https://www.peta.org/) - International organization known for high-impact campaigns against the use of animals for food, clothing, research and entertainment.
 - [People For Animals India (PFA India)](https://www.peopleforanimalsindia.org/) - India's largest animal welfare organization, founded by Maneka Gandhi, which runs a network of shelters and hospitals.
 - [Pet Nutrition Alliance (PNA)](https://petnutritionalliance.org/) - Collaboration of veterinary organizations that provides objective nutritional tools for pet owners and veterinary teams.
