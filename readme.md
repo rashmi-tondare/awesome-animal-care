@@ -284,7 +284,7 @@ Goal of this project is simply to gather verified animal care content written by
 
 ### Hamster Books
 
-- [Hamster Care Guide - The British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/hamster-care-guide.pdf) - Practical handbook focusing on step-by-step beginner socialization and safe handling techniques.
+- [Hamster Care Guide - British Columbia Society for the Prevention of Cruelty to Animals (BCSPCA)](https://spca.bc.ca/wp-content/uploads/hamster-care-guide.pdf) - Practical handbook focusing on step-by-step beginner socialization and safe handling techniques.
 - [How to Care for Syrian Hamsters - Ginger Clarke](https://hamstercareguide.com/assets/Gingers_Guide_English.pdf) - Comprehensive and in-depth guide on how to care for Syrian hamsters.
 
 ### Hamster Care & Treatment
